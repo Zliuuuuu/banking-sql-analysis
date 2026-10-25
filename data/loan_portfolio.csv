@@ -1,0 +1,4 @@
+"status","loan_count","total_loan_amount","avg_loan_amount","avg_interest_rate"
+"active","231","45816009.58","198337.70","10.88"
+"paid_off","61","13762934.61","225621.88","10.99"
+"defaulted","8","2324421.57","290552.70","8.82"
