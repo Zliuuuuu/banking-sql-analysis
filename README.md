@@ -174,4 +174,4 @@ The R script generates three visualisations from the SQL query results.
 
 6. The generated visualisations are saved in the `figures/` directory.
 
-**Note:** The R script uses local CSV file paths. These may need to be updated depending on where the project is stored.
+**Note:** Run the R script from the project root directory to ensure that relative file paths are resolved correctly.
